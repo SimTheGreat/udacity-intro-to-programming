@@ -1,0 +1,36 @@
+body {font-family: serif;
+      background-color: thistle;}
+
+
+      h1 {
+        border: 5px solid teal;
+        width: 300px;
+        text-align: center;
+        margin:1em;
+      }
+
+    .bigb {
+      border: 5px solid indigo;
+
+      width: 380px;
+      height: 690px;
+      color: black;
+
+           }
+
+
+    .smallb {
+      border: 5px solid teal;
+      padding: 1.03em;
+      width: 300px;
+      height: 220px;
+      margin:1em;
+
+                  }
+
+    img {border: 5px solid teal;
+         padding: 1.03em;
+         margin:1em;}
+
+    p {font-size:0.1em;
+         }

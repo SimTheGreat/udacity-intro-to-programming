@@ -8,6 +8,8 @@ this nanodegree covers the programming languages or markup langueges:<br>
 <li>css
 <li>python
 <li>javascript
-<ul>
-
+</ul>
+  
+here is my certificate:
+![](photo.png)<br>
 

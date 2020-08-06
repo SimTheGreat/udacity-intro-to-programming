@@ -23,6 +23,6 @@ this was not a project but you did have to submit it in a lab wich atmaticly see
 this project was not mandetory but fun to make
 <h1>my opinion</h1>
 this was the intro to programming nanodegree but I had previous expirence with programming in python,javascript,html and css but this programm was great to get my concepts straight.I dont think that you need any programming knowlege to start this nd would definetly recommend.<br>
-here is my certificate:<br>
+<h1>here is my certificate:<h1><br>
 <img src="photo.png">
 

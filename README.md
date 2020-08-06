@@ -16,6 +16,9 @@ in this project you made both a html and css page displaying a animal trading ca
 this project was the easiest to make. You had to create an adventure story wich could change based on user input.although this project was not quiet challenging you could always add more features.
 <h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/project3-pixel-art-maker-starter-master-master">pixel art maker</a></h2>
 this project was rather hard to compleate but you did not have as much of freedom of creativity as the the last two ones.you were given some starter code to create a pixle art maker.But the final product was really cool
+<h1>case studies</h1>
+<h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/my-html-Summary-master">my html summary</a></h2>
+this was not a project but you did have to submit it in a lab wich atmaticly sees if it meets the requirments.
 here is my certificate:<br>
 <img src="photo.png">
 

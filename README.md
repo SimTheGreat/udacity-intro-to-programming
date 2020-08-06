@@ -21,7 +21,8 @@ this project was rather hard to compleate but you did not have as much of freedo
 this was not a project but you did have to submit it in a lab wich atmaticly sees if it meets the requirments.
 <h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/Rock-paper-scissors-master">rock paper scissors</a></h2>
 this project was not mandetory but fun to make
-
+<h1>my opinion</h1>
+this was the intro to programming nanodegree but I had previous expirence with programming in python,javascript,html and css but this programm was great to get my concepts straight.I dont think that you need any programming knowlege to start this nd would definetly recommend.
 here is my certificate:<br>
 <img src="photo.png">
 

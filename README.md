@@ -19,6 +19,9 @@ this project was rather hard to compleate but you did not have as much of freedo
 <h1>case studies</h1>
 <h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/my-html-Summary-master">my html summary</a></h2>
 this was not a project but you did have to submit it in a lab wich atmaticly sees if it meets the requirments.
+<h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/Rock-paper-scissors-master">rock paper scissors</a></h2>
+this project was not mandetory but fun to make
+
 here is my certificate:<br>
 <img src="photo.png">
 

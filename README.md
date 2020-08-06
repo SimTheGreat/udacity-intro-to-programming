@@ -1,6 +1,6 @@
 # intro_to_programming_nd<br>
 all projects from the udacity intro to programming nanodegree<br>
-These are all my project/case studies(that I liked or enjoyed)<br>
+These are all my project and all the case studies(that I liked or enjoyed)<br>
 every project or case study has its readme's explaining the projects.<br>
 this nanodegree covers the programming languages or markup langueges:<br>
 <ul>
@@ -11,7 +11,11 @@ this nanodegree covers the programming languages or markup langueges:<br>
 </ul>
 <h1>Projects</h1>
 <h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/project1-octopus-trading-card"> animal trading card </a></h2>
-in this project you made both a html and css page displaying a animal trading card wich is a web-based trading card wich shows your favourite animal.I chose the octopus🐙
+in this project you made both a html and css page displaying a animal trading card wich is a web-based trading card wich shows your favourite animal.I chose the octopus🐙<br>
+<h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/project2-Python-adventure-game"> animal trading card </a></h2>
+this project was the easiest to make. You had to create an adventure story wich could change based on user input.although this project was not quiet challenging you could always add more features.
+<h2><a href="https://github.com/simsalabim1/intro-to-programming-nd/tree/master/project3-pixel-art-maker-starter-master-master">
+this project was rather hard to compleate but you did not have as much of freedom of creativity as the the last two ones.you were given some starter code to create a pixle art maker.But the final product was really cool
 here is my certificate:<br>
 <img src="photo.png">
 
